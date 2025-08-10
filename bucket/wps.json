@@ -2,6 +2,7 @@
     "version": "2020.11.1",
     "description": "WPS 2016 Ultra Lite version",
     "homepage": "https://www.puresys.net/1039.html",
+    "license": "Nan"
     "url": "https://github.com/vjqux/my-scoop-bucket/releases/download/2025.08.10/WPS2016._2020.11.1_CLAM.zip",
     "hash": "7ec709922bc2bac4f5228dd80383927858784626611ef40f36afbf63c23ef80d",
     "bin": [
