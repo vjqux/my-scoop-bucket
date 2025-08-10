@@ -1,0 +1,10 @@
+{
+    "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
+    "version": "2020.11.1",
+    "description": "WPS 2016 Ultra Lite version",
+    "homepage": "https://www.puresys.net/1039.html",
+    "license": "",
+    "notes": "",
+    "url": "https://github.com/vjqux/my-scoop-bucket/releases/download/2025.08.10/WPS2016._2020.11.1_CLAM.zip",
+    "bin": "WPS2016单文件极简版_2020.11.1_CLAM.exe",
+}
