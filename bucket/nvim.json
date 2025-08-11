@@ -18,12 +18,12 @@
     "extract_dir": "nvim-win64",
     "bin": "bin\\nvim.exe",
     "persist": [
-		"config",
-		"nvim-data"
+        "config",
+        "nvim-data"
     ],
-    "env-set": {
-		"XDG_CONFIG_HOME": "$persist_dir/config",
-		"XDG_DATA_HOME": "$persist_dir"
+    "env_set": {
+        "XDG_CONFIG_HOME": "$persist_dir/config",
+        "XDG_DATA_HOME": "$persist_dir"
     },
     "checkver": {
         "url": "https://api.github.com/repositories/16408992/releases/latest",
