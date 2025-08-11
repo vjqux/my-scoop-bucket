@@ -22,7 +22,7 @@
         "nvim-data"
     ],
     "env_set": {
-        "XDG_CONFIG_HOME": "$persist_dir/config",
+        "XDG_CONFIG_HOME": "$persist_dir\\config",
         "XDG_DATA_HOME": "$persist_dir"
     },
     "checkver": {
